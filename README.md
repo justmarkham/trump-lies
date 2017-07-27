@@ -1,6 +1,6 @@
 # Web scraping the President's lies in 16 lines of Python
 
-This repository contains the [Jupyter notebook](http://nbviewer.jupyter.org/github/justmarkham/trump-lies/blob/master/trump_lies.ipynb) and [dataset](trump_lies.csv) from Data School's [introductory web scraping tutorial](http://www.dataschool.io/python-web-scraping-of-president-trumps-lies/). All that is required to follow along is a basic understanding of the Python programming language.
+This repository contains the [Jupyter notebook](trump_lies.ipynb) and [dataset](trump_lies.csv) from Data School's [introductory web scraping tutorial](http://www.dataschool.io/python-web-scraping-of-president-trumps-lies/). All that is required to follow along is a basic understanding of the Python programming language.
 
 By the end of the tutorial, you will be able to scrape data from a static web page using the **requests** and **Beautiful Soup** libraries, and export that data into a structured text file using the **pandas** library.
 
@@ -8,11 +8,11 @@ By the end of the tutorial, you will be able to scrape data from a static web pa
 
 On July 21, 2017, the New York Times updated an opinion article called [Trump's Lies](https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html), detailing every public lie the President has told since taking office. Because this is a newspaper, the information was (of course) published as a block of text:
 
-![Screenshot of the article](images/article_1.png)
+<p align="center"><img src="images/article_1.png" alt="Screenshot of the article" /></p>
 
 This is a great format for human consumption, but it can't easily be understood by a computer. In this [tutorial](http://www.dataschool.io/python-web-scraping-of-president-trumps-lies/), we'll extract the President's lies from the New York Times article and store them in a structured dataset.
 
-![Screenshot of the DataFrame](images/dataframe_3.png)
+<p align="center"><img src="images/dataframe_3.png" alt="Screenshot of the DataFrame" /></p>
 
 ## Outline of the [tutorial](http://www.dataschool.io/python-web-scraping-of-president-trumps-lies/)
 

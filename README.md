@@ -8,11 +8,11 @@ By the end of the tutorial, you will be able to scrape data from a static web pa
 
 On July 21, 2017, the New York Times updated an opinion article called [Trump's Lies](https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html), detailing every public lie the President has told since taking office. Because this is a newspaper, the information was (of course) published as a block of text:
 
-<p align="center"><img src="images/article_1.png" alt="Screenshot of the article" /></p>
+<p align="center"><a href="https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html" title="Read the New York Times article" target="_blank"><img src="images/article_1.png" alt="Screenshot of the article" /></a></p>
 
-This is a great format for human consumption, but it can't easily be understood by a computer. In this [tutorial](http://www.dataschool.io/python-web-scraping-of-president-trumps-lies/), we'll extract the President's lies from the New York Times article and store them in a structured dataset.
+This is a great format for human consumption, but it can't easily be understood by a computer. In this [tutorial](http://www.dataschool.io/python-web-scraping-of-president-trumps-lies/), we'll extract the President's lies from the New York Times article and store them in a structured [dataset](trump_lies.csv).
 
-<p align="center"><img src="images/dataframe_3.png" alt="Screenshot of the DataFrame" /></p>
+<p align="center"><a href="trump_lies.csv" title="Open the dataset of President Trump's lies"><img src="images/dataframe_3.png" alt="Screenshot of the DataFrame" /></a></p>
 
 ## Outline of the [tutorial](http://www.dataschool.io/python-web-scraping-of-president-trumps-lies/)
 

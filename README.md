@@ -4,6 +4,10 @@ This repository contains the [Jupyter notebook](trump_lies.ipynb) and [dataset](
 
 By the end of the tutorial, you will be able to scrape data from a static web page using the **requests** and **Beautiful Soup** libraries, and export that data into a structured text file using the **pandas** library.
 
+You can also [watch the tutorial on YouTube](https://www.youtube.com/watch?v=r_xb0vF1uMc&list=PL5-da3qGB5IDbOi0g5WFh1YPDNzXw4LNL&index=1).
+
+[![Watch the tutorial on YouTube](images/youtube.jpg)](https://www.youtube.com/watch?v=r_xb0vF1uMc&list=PL5-da3qGB5IDbOi0g5WFh1YPDNzXw4LNL&index=1 "Video series: Web scraping in Python with Beautiful Soup and requests")
+
 ## Motivation
 
 On July 21, 2017, the New York Times updated an opinion article called [Trump's Lies](https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html), detailing every public lie the President has told since taking office. Because this is a newspaper, the information was (of course) published as a block of text:
